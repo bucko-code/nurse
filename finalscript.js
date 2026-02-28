@@ -322,7 +322,7 @@ function showResult() {
 
     if (T >= V && T >= J) {
         finalType = "T";
-        resultImage.src = "images/T.png";
+        resultImage.src = "images/T.jpg";
     }
     else if (V >= T && V >= J) {
         finalType = "V";

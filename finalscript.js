@@ -323,7 +323,7 @@ function showResult() {
     if (T >= V && T >= J) {
         finalType = "T";
         resultImage.src = "images/T.jpg";
-        <p id="จากคุณแพนด้า"></p>
+        resultText.textContent= "จากคุณแพนด้า";
     }
     else if (V >= T && V >= J) {
         finalType = "V";

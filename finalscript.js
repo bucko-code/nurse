@@ -331,7 +331,7 @@ function showResult() {
     }
     else {
         finalType = "J";
-        resultImage.src = "images/J.png";
+        resultImage.src = "images/J.jpg";
     }
 
     resultImage.alt = finalType + " Result";
